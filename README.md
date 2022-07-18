@@ -4,10 +4,10 @@
 dissatisfied passengers.
 
 **Actions**:
-● Performed Exploratory Data Analysis (EDA).
-● Built a model from several algorithms to find the best
+1. Performed Exploratory Data Analysis (EDA).
+2. Built a model from several algorithms to find the best
 model.
-● Provided insight and recommendations for companies
+3. Provided insight and recommendations for companies
 to increase passenger satisfaction.
 
 **Results**: Successfully built the model with 94% accuracy.
