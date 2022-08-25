@@ -1,4 +1,4 @@
-# airline-passenger-satisfaction
+# Airline Passenger Satisfaction
 
 **Objective**: Identified patterns or characteristics of
 dissatisfied passengers.
