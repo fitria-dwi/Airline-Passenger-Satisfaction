@@ -16,7 +16,7 @@ In the highly competitive airline industry, customer satisfaction is crucial for
 
 #### <code style="color : darkpurple">Machine Learning</code>
 * **Goal**: Build models to predict customer satisfaction.
-* **Approach**: Eight algorithms were evaluated to determine the best prediction model.
+* **Approach**: 5 algorithms were evaluated to determine the best prediction model.
 
 #### <code style="color : darkpurple">Tools</code>
 * **Programming Language**: Python
