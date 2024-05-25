@@ -28,3 +28,7 @@ The analysis revealed that the Decision Tree model, achieving an accuracy of 93%
 ### **Future Work**
 * Model Improvement: Explore more advanced machine learning algorithms and feature engineering techniques to improve model accuracy.
 * Broader Application: Extend the analysis to other aspects of airline operations, such as flight delays and baggage handling, to further enhance customer experience.
+
+---
+### Repository Contents
+* [Scripts](https://github.com/fitria-dwi/Airline-Passenger-Satisfaction/blob/main/Airline%20Passenger%20Satisfaction.ipynb): Python scripts for data preprocessing and model implementation.
