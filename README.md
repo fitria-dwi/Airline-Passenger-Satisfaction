@@ -5,6 +5,11 @@ _Created by Fitria Dwi Wulandari – August, 2020_
 ### **Project Background**
 In the highly competitive airline industry, customer satisfaction is crucial for maintaining passenger loyalty, enhancing the airline's reputation, and ensuring long-term business success. However, airlines often face challenges in understanding and addressing what causes passenger dissatisfaction. Common concerns among passengers include service quality, comfort, punctuality, and overall travel experience.
 
+### **Objectives**
+This project aims to enhance customer satisfaction and pinpoint areas for improvement by:
+* Identifying patterns and characteristics of dissatisfied passengers.
+* Performing supervised learning algorithms to predict passenger satisfaction.
+
 ### **Methodology**
 #### <code style="color : darkpurple">Data Preparation</code>
 * **Source**: Data obtained from [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction), which contains airline passenger satisfaction survey.
